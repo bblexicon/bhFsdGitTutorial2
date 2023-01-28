@@ -3,8 +3,9 @@
 
 ### Aditya
 
-## Name Brian 
-## Live in Bath UK
-## Hobbies - Origami, Roller Skiing, In-line skating, Rowing
+## Name :  Brian 
+## Lives in: Bath UK
+## Originates from: Llanfairpwllgwyngyllgogerethchwyndrobwyllllantysilio
+## Hobbies: Origami, Roller Skiing, In-line skating, Rowing
 
 
