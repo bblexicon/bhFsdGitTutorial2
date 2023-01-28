@@ -1,2 +1,10 @@
 # bhFsdGitTutorial2
-This is a turoria
+## Student Roster
+
+### Aditya
+
+## Name Brian 
+## Live in Bath UK
+## Hobbies - Origami, Roller Skiing, In-line skating, Rowing
+
+
